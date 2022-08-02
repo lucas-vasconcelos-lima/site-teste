@@ -1,1 +1,4 @@
 Escolher cores
+
+azul
+amarelo
